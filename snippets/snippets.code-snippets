@@ -10,6 +10,15 @@
 		"prefix": "slo",
 		"body": ["std_logic"],
 		"description": "std logic shortcut"
+	},
+	"Others Zero": {
+		"prefix": "o0",
+		"body": ["(others => '0')$0"],
+		"description": "others zero shortcut"
+	},
+	"Others One": {
+		"prefix": "o1",
+		"body": ["(others => '1')$0"],
+		"description": "others one shortcut"
 	}
-	
 }
