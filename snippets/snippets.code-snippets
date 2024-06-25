@@ -1,0 +1,14 @@
+{
+    "Downt to": {
+		"prefix": "doto",
+		"body": [
+			"${1:7} downto ${2:0}"
+		],
+		"description": "down to shortcut"
+	},
+    "Std Logic": {
+		"prefix": "slo",
+		"body": ["std_logic"],
+		"description": "std logic shortcut"
+	}
+}
